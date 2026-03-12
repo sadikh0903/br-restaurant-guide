@@ -1,10 +1,9 @@
 # Bay Ridge Restaurant Guide
-## Greek -->
+## Greek
 ---
-Select a specific greek? food:
-## [Chinese](chinese.md)
-## [Japanese](japanese.md)
-## [Thai](thai.md)
+Select a restaurant:
+## [Omonia Cafe](https://www.omoniacafebrooklyn.com/)
+## [Something Greek](https://www.somethingreekonline.com/)
 ---
 [Start Over](../home.md)
 
